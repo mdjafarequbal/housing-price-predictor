@@ -4,7 +4,7 @@
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vaibhavvikas/housing-price-predictor)](#)
 [![GitHub stars](https://img.shields.io/github/stars/vaibhavvikas/housing-price-predictor)](https://github.com/vaibhavvikas/housing-price-predictor/stargazers)
 
-A machine learning project to predict the housing price based on Kaggle Housing Prices Competition
+A machine learning project to predict the housing price.
 
 
 
